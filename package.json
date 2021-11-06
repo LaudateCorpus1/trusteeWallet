@@ -47,7 +47,7 @@
     "assert": "^1.5.0",
     "asyncstorage-down": "latest",
     "aws-sdk": "^2.941.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.2",
     "babel-plugin-module-resolver": "^4.1.0",
     "bip32": "^2.0.4",
     "bip39": "^3.0.2",
