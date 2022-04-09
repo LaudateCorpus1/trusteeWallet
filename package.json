@@ -78,7 +78,7 @@
     "lodash": "^4.17.15",
     "lottie-ios": "3.1.8",
     "lottie-react-native": "3.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mymonero-core-js": "git+https://git@github.com/trustee-wallet/mymonero-core-js",
     "node-libs-browser": "^2.2.1",
     "patch-package": "^6.2.2",
